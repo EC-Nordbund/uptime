@@ -22,19 +22,19 @@
     "url": "https://www.vg-sh.de",
     "icon": "https://favicons.githubusercontent.com/www.vg-sh.de",
     "slug": "vg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1305,
-    "timeDay": 1628,
-    "timeWeek": 1305,
-    "timeMonth": 1305,
-    "timeYear": 1305,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1321,
+    "timeDay": 1615,
+    "timeWeek": 1342,
+    "timeMonth": 1321,
+    "timeYear": 1321,
     "dailyMinutesDown": {
-      "2021-06-27": 0
+      "2021-06-27": 23
     }
   }
 ]
