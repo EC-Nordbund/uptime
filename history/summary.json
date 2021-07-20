@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 907,
-    "timeDay": 946,
-    "timeWeek": 833,
-    "timeMonth": 908,
-    "timeYear": 907,
+    "time": 904,
+    "timeDay": 753,
+    "timeWeek": 835,
+    "timeMonth": 906,
+    "timeYear": 904,
     "dailyMinutesDown": {
       "2021-06-30": 23
     }
@@ -25,18 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/www.vg-sh.de",
     "slug": "vg",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.93%",
     "time": 1295,
-    "timeDay": 901,
-    "timeWeek": 1198,
-    "timeMonth": 1288,
+    "timeDay": 930,
+    "timeWeek": 1209,
+    "timeMonth": 1292,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2021-07-19": 6,
       "2021-07-16": 15,
       "2021-06-27": 23
     }
