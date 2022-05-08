@@ -29,7 +29,7 @@
     "url": "https://www.vg-sh.de",
     "icon": "https://favicons.githubusercontent.com/www.vg-sh.de",
     "slug": "vg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 1266,
     "timeYear": 1284,
     "dailyMinutesDown": {
+      "2022-05-08": 0,
       "2022-03-03": 22,
       "2021-08-15": 16,
       "2021-07-23": 26,
