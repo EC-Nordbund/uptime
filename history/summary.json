@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.02%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.90%",
-    "time": 1458,
-    "timeDay": 1509,
-    "timeWeek": 1552,
-    "timeMonth": 3204,
+    "time": 1457,
+    "timeDay": 1046,
+    "timeWeek": 1405,
+    "timeMonth": 3139,
     "timeYear": 1482,
     "dailyMinutesDown": {
       "2022-06-22": 300,
@@ -21,8 +21,7 @@
       "2022-01-29": 17,
       "2021-12-16": 41,
       "2021-09-02": 33,
-      "2021-08-27": 69,
-      "2021-06-30": 23
+      "2021-08-27": 69
     }
   },
   {
@@ -32,14 +31,14 @@
     "slug": "vg",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1306,
-    "timeDay": 1685,
-    "timeWeek": 1620,
-    "timeMonth": 1473,
+    "time": 1307,
+    "timeDay": 1619,
+    "timeWeek": 1613,
+    "timeMonth": 1474,
     "timeYear": 1306,
     "dailyMinutesDown": {
       "2022-06-28": 16,
