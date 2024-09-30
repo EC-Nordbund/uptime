@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1180,
-    "timeDay": 1035,
-    "timeWeek": 1612,
-    "timeMonth": 1337,
-    "timeYear": 1169,
+    "time": 1179,
+    "timeDay": 1055,
+    "timeWeek": 1634,
+    "timeMonth": 1339,
+    "timeYear": 1167,
     "dailyMinutesDown": {}
   },
   {
@@ -24,21 +24,19 @@
     "slug": "vg",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 1510,
-    "timeDay": 2276,
-    "timeWeek": 1746,
-    "timeMonth": 1682,
-    "timeYear": 1484,
+    "time": 1509,
+    "timeDay": 2131,
+    "timeWeek": 1702,
+    "timeMonth": 1676,
+    "timeYear": 1483,
     "dailyMinutesDown": {
-      "2024-09-29": 11,
       "2024-09-25": 19,
       "2024-08-31": 26,
-      "2023-12-19": 15,
-      "2023-10-01": 53
+      "2023-12-19": 15
     }
   }
 ]
