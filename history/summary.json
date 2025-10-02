@@ -4,18 +4,19 @@
     "url": "https://www.ec-nordbund.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.ec-nordbund.de.ico",
     "slug": "ec-nordbund",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1163,
+    "time": 1164,
     "timeDay": 1281,
     "timeWeek": 1187,
     "timeMonth": 1154,
     "timeYear": 1148,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-06-05": 17,
       "2024-12-05": 26
     }
@@ -33,7 +34,7 @@
     "uptimeYear": "99.94%",
     "time": 1685,
     "timeDay": 1286,
-    "timeWeek": 1233,
+    "timeWeek": 1217,
     "timeMonth": 1634,
     "timeYear": 1729,
     "dailyMinutesDown": {
