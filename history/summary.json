@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1177,
-    "timeDay": 1542,
-    "timeWeek": 1315,
-    "timeMonth": 1322,
-    "timeYear": 1182,
+    "time": 1178,
+    "timeDay": 1659,
+    "timeWeek": 1347,
+    "timeMonth": 1345,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2026-02-11": 424,
       "2026-03-26": 479
@@ -25,17 +25,17 @@
     "url": "https://www.vg-sh.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.vg-sh.de.ico",
     "slug": "vg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.21%",
-    "time": 1400,
-    "timeDay": 1352,
-    "timeWeek": 1278,
-    "timeMonth": 1298,
-    "timeYear": 1313,
+    "time": 1397,
+    "timeDay": 1218,
+    "timeWeek": 1270,
+    "timeMonth": 1307,
+    "timeYear": 1312,
     "dailyMinutesDown": {
       "2025-08-06": 17,
       "2025-09-13": 20,
@@ -87,7 +87,8 @@
       "2026-05-24": 52,
       "2026-05-29": 92,
       "2026-06-07": 77,
-      "2026-06-13": 84
+      "2026-06-13": 84,
+      "2026-07-10": 0
     }
   }
 ]
