@@ -25,9 +25,9 @@
     "url": "https://www.vg-sh.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.vg-sh.de.ico",
     "slug": "vg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.28%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.07%",
@@ -94,7 +94,8 @@
       "2026-07-18": 106,
       "2026-07-20": 62,
       "2026-07-25": 120,
-      "2026-07-26": 54
+      "2026-07-26": 54,
+      "2026-07-28": 0
     }
   }
 ]
