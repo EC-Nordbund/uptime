@@ -25,17 +25,17 @@
     "url": "https://www.vg-sh.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.vg-sh.de.ico",
     "slug": "vg",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
-    "time": 1309,
-    "timeDay": 1158,
-    "timeWeek": 1212,
-    "timeMonth": 1273,
-    "timeYear": 1246,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "86.93%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "98.97%",
+    "time": 1307,
+    "timeDay": 1109,
+    "timeWeek": 1190,
+    "timeMonth": 1265,
+    "timeYear": 1245,
     "dailyMinutesDown": {
       "2025-11-14": 17,
       "2025-11-24": 16,
@@ -98,7 +98,7 @@
       "2026-08-16": 29,
       "2026-08-19": 29,
       "2026-09-05": 166,
-      "2026-10-21": 0
+      "2026-10-21": 188
     }
   }
 ]
